@@ -1,0 +1,9 @@
+﻿.detail p {
+    margin-left: 120px;
+}
+
+@media screen and (-ms-view-state: snapped) {
+    .detail p {
+        margin-left: 20px;
+    }
+}
